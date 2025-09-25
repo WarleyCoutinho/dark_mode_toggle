@@ -246,7 +246,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Warley Coutinho**
 
 - GitHub: [@WarleyCoutinho](https://github.com/WarleyCoutinho)
-- LinkedIn: [Warley Coutinho](https://linkedin.com/in/warley-coutinho)
+- LinkedIn: [Warley Coutinho](https://www.linkedin.com/in/coutinho-warley/)
 
 ---
 
